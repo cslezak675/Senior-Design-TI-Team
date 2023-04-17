@@ -1,3 +1,23 @@
 
 *.autosave
 Senior-Design-TI-Team/
+*.hex
+*.dwo
+*.out
+*.dmr
+*.mat
+*.xml
+*.tmw
+*.d
+*.obj
+untitled_ert_rtw/CCS_Project/.ccsproject
+untitled_ert_rtw/CCS_Project/.cproject
+untitled_ert_rtw/CCS_Project/.project
+*.mk
+*.c
+*.h
+*.m
+untitled_ert_rtw/tmwinternal/tr
+*.bat
+*.map
+*.json
